@@ -1,0 +1,83 @@
+.movieRow {
+  /* Container */
+  margin-bottom: 30px;
+}
+
+.movieRow h2 {
+  /* Title */
+  margin: 0 0 0 30px;
+}
+
+.movieRow--listarea {
+  /* Container da lista*/
+  overflow-x: hidden;
+  padding-left: 30px;
+}
+
+.movieRow--list {
+  /* Lista de filmes */
+  transition: all ease 0.5s;
+}
+
+.movieRow--item {
+  /* Item da lista */
+  display: inline-block;
+  width: 150px;
+  cursor: pointer;
+}
+
+.movieRow--item img {
+  /* Imagem do filme */
+  width: 100%;
+  transform: scale(0.9);
+  transition: all ease 0.2s;
+}
+
+.movieRow--item img:hover {
+  /* Animação do filme */
+  transform: scale(1);
+}
+
+.movieRow--left,
+.movieRow--right {
+  /* Botão de navegação esquerdo e direito */
+  position: absolute;
+  width: 40px;
+  height: 225px;
+  background-color: rgba(0, 0, 0, 0.6);
+  z-index: 99;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  cursor: pointer;
+  opacity: 0;
+  transition: all ease 0.5s;
+ 
+}
+
+.movieRow:hover .movieRow--left,
+.movieRow:hover .movieRow--right {
+  /* Animação dos botões de navegação */
+  opacity: 1;
+
+}
+
+.movieRow--left {
+  /* Botão de navegação direito */
+  left: 0;
+}
+
+.movieRow--right {
+  /* Botão de navegação esquerdo */
+  right: 0;
+}
+
+@media (max-width: 760px) {
+  /* Quando a tela for menor que 760px */
+  .movieRow--left,
+  .movieRow--right {
+    /* Esconder os botões de navegação */
+    opacity: 1;
+  }
+}
