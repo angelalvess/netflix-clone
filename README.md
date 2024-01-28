@@ -1,70 +1,30 @@
-# Getting Started with Create React App
+Visão geral 🍿
+Este projeto é um clone responsivo da interface de usuário do Netflix, construído usando JavaScript, React e a API TheMovieDB. O objetivo principal deste projeto era recriar a aparência do site da Netflix e, ao mesmo tempo, preenchê-lo com dados de filmes e programas de TV da extensa coleção do TheMovieDB.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Recursos 📽️
+Design responsivo: O projeto foi projetado tendo em mente a capacidade de resposta, garantindo que tenha uma boa aparência e funcione bem em uma variedade de tamanhos de tela e dispositivos.
 
-## Available Scripts
+Integração da API TheMovieDB: O projeto aproveita a API TheMovieDB para buscar dados como pôsteres de filmes, títulos e descrições. Esses dados são então usados ​​para preencher a interface estilo Netflix com conteúdo dinâmico.
 
-In the project directory, you can run:
+Estilo de componente global: CSS foi aplicado a componentes globais para combinar com a interface do Netflix, criando uma experiência de usuário coesa e visualmente atraente.
 
-### `npm start`
+Tendências e conteúdo mais bem avaliado: O projeto apresenta filmes e programas de TV em alta, conteúdo mais bem avaliado e outras categorias, tornando-o um centro para descobrir entretenimento popular.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Instalação 🎞️
+Para executar este projeto em sua máquina local, siga estas etapas:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Clone o repositório:
 
-### `npm test`
+clone git https://github.com/maalcantara/netflix-clone.git
+cd clone do netflix
+Instale dependências e inicie o servidor de desenvolvimento:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+instalação npm
+npm início
+Abra seu navegador e navegue até http://localhost:3000 para ver o projeto em ação.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Créditos 🍿
+YouTube: vídeo tutorial de Bonieky Lacerda.
+TheMovieDB: a API que forneceu os dados de filmes e programas de TV para este projeto.
+React: a biblioteca JavaScript usada para construir a interface do usuário.
+Ícones React: uma biblioteca para incluir ícones populares em seus projetos React.
