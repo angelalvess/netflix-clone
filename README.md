@@ -15,7 +15,7 @@ Para executar este projeto em sua máquina local, siga estas etapas:
 
 Clone o repositório:
 
-clone git https://github.com/maalcantara/netflix-clone.git
+clone git https://github.com/angelalvess/netflix-clone.git
 cd clone do netflix
 Instale dependências e inicie o servidor de desenvolvimento:
 
