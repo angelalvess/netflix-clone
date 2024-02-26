@@ -1,5 +1,5 @@
 ## Visão geral  🍿
-Este projeto é um clone responsivo da interface de usuário do Netflix, construído usando JavaScript, React e a API TheMovieDB. O objetivo principal deste projeto era recriar a aparência do site da Netflix e, ao mesmo tempo, preenchê-lo com dados de filmes e programas de TV da extensa coleção do TheMovieDB
+Este projeto é um clone responsivo da interface de usuário do Netflix, construído usando JavaScript, React e a API TheMovieDB. O objetivo principal deste projeto era recriar a aparência do site da Netflix e, ao mesmo tempo, preenchê-lo com dados de filmes e programas de TV da extensa coleção do TheMovieDB.
 
 Recursos 📽️
 Design responsivo: O projeto foi projetado tendo em mente a capacidade de resposta, garantindo que tenha uma boa aparência e funcione bem em uma variedade de tamanhos de tela e dispositivos.
