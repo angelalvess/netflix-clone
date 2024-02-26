@@ -13,7 +13,7 @@ Tendências e conteúdo mais bem avaliado: O projeto apresenta filmes e programa
 Instalação 🎞️
 Para executar este projeto em sua máquina local, siga estas etapas:
 
-Clone o repositório:
+Clone o repositório
 
 clone git https://github.com/angelalvess/netflix-clone.git
 cd clone do netflix
