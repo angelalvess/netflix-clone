@@ -24,7 +24,7 @@ npm início
 Abra seu navegador e navegue até http://localhost:3000 para ver o projeto em ação.
 
 Créditos 🍿
-YouTube: vídeo tutorial de Bonieky Lacerda.
+YouTube: vídeo tutorial de Bonieky Lacerda
 TheMovieDB: a API que forneceu os dados de filmes e programas de TV para este projeto.
 React: a biblioteca JavaScript usada para construir a interface do usuário.
 Ícones React: uma biblioteca para incluir ícones populares em seus projetos React.
