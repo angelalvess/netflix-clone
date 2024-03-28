@@ -11,7 +11,7 @@ Estilo de componente global: CSS foi aplicado a componentes globais para combina
 Tendências e conteúdo mais bem avaliado: O projeto apresenta filmes e programas de TV em alta, conteúdo mais bem avaliado e outras categorias, tornando-o um centro para descobrir entretenimento popular.
 
 Instalação 🎞️
-Para executar este projeto em sua máquina local, siga estas etapas
+Para executar este projeto em sua máquina local, siga estas etapas:
 
 Clone o repositório
 
